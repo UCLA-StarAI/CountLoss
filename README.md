@@ -1,6 +1,6 @@
 # A Unified Approach to Weakly Supervised Learning
 
-Code for 2023 Neurips paper
+Code for 2023 NeurIPS paper
 ```
 @inproceedings{ShuklaNeurIPS23,
   author    = {Shukla, Vinay and Zeng, Zhe and Ahmed, Kareem and Van den Broeck, Guy},
