@@ -1,0 +1,6 @@
+LLP/Learning_Label_Prop
+PU/data/
+__pycache__/
+*.pyc
+MIL/Colon_Cancer/Patches
+MIL/datasets

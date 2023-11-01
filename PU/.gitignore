@@ -1,0 +1,8 @@
+data/
+logging_accuracy*
+logging_paper*
+logging_no_val*
+test
+*.txt
+*.pyc
+archived_grids/
