@@ -12,7 +12,6 @@ import random
 import numpy as np
 import torch
 import torch.utils.data as data_utils
-from colon_utils.dataset import *
 from sklearn import metrics
 from sklearn.metrics import accuracy_score, roc_auc_score
 from torch.autograd import Variable

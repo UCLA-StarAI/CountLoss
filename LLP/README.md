@@ -22,7 +22,7 @@ The dataset should then exist under a folder Learning_Label_Prop/LMMCM/{dataset}
 ## Run Experiments
 
 ```
-python train.py --dataset=experiments_adult_0_one --dataset_name=adult --loss=count --bag_size=8 --layer_sizes=2048 64
+python train.py --dataset=experiments_adult_0_one --dataset_name=adult --loss=count --bag_size=8 --layer_sizes 2048 64
 ```
 
 ## Baseline Code
